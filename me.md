@@ -1,5 +1,5 @@
 layout: page
-title: "About me"
-permalink: /contact
+title: "about-me"
+permalink: /contact/
 
-#About me page - changed
+#About me page - changed 2
